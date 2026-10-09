@@ -4,4 +4,5 @@ Video demonstration: https://www.youtube.com/watch?v=zhHhag3PQVo
 
 <img width="1920" height="1080" alt="Photo2" src="https://github.com/user-attachments/assets/99082d1b-8b53-4061-83a7-58022fe42e64" />
 
+HMI Screen:
 <img width="1920" height="1080" alt="Photo3" src="https://github.com/user-attachments/assets/e3ddab04-7282-4021-a940-5ef421f80aac" />
