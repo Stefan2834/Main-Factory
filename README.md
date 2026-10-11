@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Video demonstration: https://www.youtube.com/watch?v=zhHhag3PQVo
-
-=======
 Video demonstration: https://www.youtube.com/watch?v=zhHhag3PQVo
 
 <img width="1920" height="1080" alt="Photo1" src="https://github.com/user-attachments/assets/e2e3cd62-0312-4915-8939-1ac16b37fb67" />
@@ -10,4 +6,3 @@ Video demonstration: https://www.youtube.com/watch?v=zhHhag3PQVo
 
 HMI Screen:
 <img width="1920" height="1080" alt="Photo3" src="https://github.com/user-attachments/assets/e3ddab04-7282-4021-a940-5ef421f80aac" />
->>>>>>> 0e79cc637982342ab2c32488e2a3c72c02dfe90a
